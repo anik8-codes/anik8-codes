@@ -1,0 +1,39 @@
+<svg width="820" height="268" viewBox="0 0 820 268" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Inventory — anik8's stack</title>
+  <style>
+    text { font-family: ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace; }
+    .l { font-size: 12px; font-weight: 700; fill: #d62828; letter-spacing: 2px; }
+    .i { font-size: 13px; font-weight: 600; fill: #1d1630; }
+    .pill { fill: #f6f4fa; stroke: #e7e3ef; }
+    .b { opacity: 0; animation: pop .45s ease forwards; }
+    @keyframes pop { to { opacity: 1; } }
+  </style>
+  <rect x="1" y="1" width="818" height="266" rx="16" fill="#ffffff" stroke="#e7e3ef" stroke-width="2"/>
+  <line x1="100" y1="26" x2="100" y2="242" stroke="#e7e3ef" stroke-width="2" stroke-dasharray="4 6"/>
+  <text x="28" y="53" class="l">CODE</text>
+  <g class="b" style="animation-delay:0.00s"><rect x="120" y="34" width="106" height="28" rx="14" class="pill"/><text x="173.0" y="52.5" text-anchor="middle" class="i">TypeScript</text></g>
+  <g class="b" style="animation-delay:0.05s"><rect x="236" y="34" width="106" height="28" rx="14" class="pill"/><text x="289.0" y="52.5" text-anchor="middle" class="i">JavaScript</text></g>
+  <g class="b" style="animation-delay:0.10s"><rect x="352" y="34" width="75" height="28" rx="14" class="pill"/><text x="389.5" y="52.5" text-anchor="middle" class="i">Python</text></g>
+  <text x="28" y="101" class="l">BUILD</text>
+  <g class="b" style="animation-delay:0.15s"><rect x="120" y="82" width="67" height="28" rx="14" class="pill"/><text x="153.5" y="100.5" text-anchor="middle" class="i">React</text></g>
+  <g class="b" style="animation-delay:0.20s"><rect x="197" y="82" width="83" height="28" rx="14" class="pill"/><text x="238.5" y="100.5" text-anchor="middle" class="i">Node.js</text></g>
+  <g class="b" style="animation-delay:0.25s"><rect x="290" y="82" width="83" height="28" rx="14" class="pill"/><text x="331.5" y="100.5" text-anchor="middle" class="i">Express</text></g>
+  <g class="b" style="animation-delay:0.30s"><rect x="383" y="82" width="83" height="28" rx="14" class="pill"/><text x="424.5" y="100.5" text-anchor="middle" class="i">MongoDB</text></g>
+  <text x="28" y="149" class="l">CLOUD</text>
+  <g class="b" style="animation-delay:0.35s"><rect x="120" y="130" width="51" height="28" rx="14" class="pill"/><text x="145.5" y="148.5" text-anchor="middle" class="i">AWS</text></g>
+  <g class="b" style="animation-delay:0.40s"><rect x="181" y="130" width="75" height="28" rx="14" class="pill"/><text x="218.5" y="148.5" text-anchor="middle" class="i">Docker</text></g>
+  <g class="b" style="animation-delay:0.45s"><rect x="266" y="130" width="106" height="28" rx="14" class="pill"/><text x="319.0" y="148.5" text-anchor="middle" class="i">Kubernetes</text></g>
+  <g class="b" style="animation-delay:0.50s"><rect x="382" y="130" width="98" height="28" rx="14" class="pill"/><text x="431.0" y="148.5" text-anchor="middle" class="i">Terraform</text></g>
+  <g class="b" style="animation-delay:0.55s"><rect x="490" y="130" width="67" height="28" rx="14" class="pill"/><text x="523.5" y="148.5" text-anchor="middle" class="i">Linux</text></g>
+  <g class="b" style="animation-delay:0.60s"><rect x="567" y="130" width="67" height="28" rx="14" class="pill"/><text x="600.5" y="148.5" text-anchor="middle" class="i">CI/CD</text></g>
+  <text x="28" y="197" class="l">AI</text>
+  <g class="b" style="animation-delay:0.65s"><rect x="120" y="178" width="129" height="28" rx="14" class="pill"/><text x="184.5" y="196.5" text-anchor="middle" class="i">LLMs &amp; agents</text></g>
+  <g class="b" style="animation-delay:0.70s"><rect x="259" y="178" width="106" height="28" rx="14" class="pill"/><text x="312.0" y="196.5" text-anchor="middle" class="i">Vector DBs</text></g>
+  <g class="b" style="animation-delay:0.75s"><rect x="375" y="178" width="90" height="28" rx="14" class="pill"/><text x="420.0" y="196.5" text-anchor="middle" class="i">Voice AI</text></g>
+  <text x="28" y="245" class="l">CRAFT</text>
+  <g class="b" style="animation-delay:0.80s"><rect x="120" y="226" width="51" height="28" rx="14" class="pill"/><text x="145.5" y="244.5" text-anchor="middle" class="i">Git</text></g>
+  <g class="b" style="animation-delay:0.85s"><rect x="181" y="226" width="67" height="28" rx="14" class="pill"/><text x="214.5" y="244.5" text-anchor="middle" class="i">Figma</text></g>
+  <g class="b" style="animation-delay:0.90s"><rect x="258" y="226" width="129" height="28" rx="14" class="pill"/><text x="322.5" y="244.5" text-anchor="middle" class="i">System design</text></g>
+  <g class="b" style="animation-delay:0.95s"><rect x="397" y="226" width="122" height="28" rx="14" class="pill"/><text x="458.0" y="244.5" text-anchor="middle" class="i">Premiere Pro</text></g>
+  <g class="b" style="animation-delay:1.00s"><rect x="529" y="226" width="129" height="28" rx="14" class="pill"/><text x="593.5" y="244.5" text-anchor="middle" class="i">After Effects</text></g>
+</svg>
