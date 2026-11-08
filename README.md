@@ -1,6 +1,6 @@
 <!-- ───────────── HEADER ───────────── -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="anik8: leveling up, out loud. LV.26, dev, creator, founder."/>
+  <img src="./assets/header.svg" width="100%" alt="anik8: leveling up, out loud. Dev, creator, founder."/>
 </p>
 
 <!-- ───────────── BADGES ───────────── -->
@@ -97,7 +97,7 @@
 ## &nbsp;XP log
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=anik8-codes&hide_border=true&background=1d1630&ring=d62828&fire=ff7a1a&currStreakLabel=ff7a1a&sideLabels=b3a5d1&currStreakNum=ffffff&sideNums=ffffff&dates=8b7bb0&stroke=3a3054" alt="GitHub streak stats"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=anik8-codes&hide_border=true&background=ffffff&ring=d62828&fire=ff7a1a&currStreakLabel=d62828&sideLabels=1d1630&currStreakNum=1d1630&sideNums=1d1630&dates=6b6480&stroke=e7e3ef" alt="GitHub streak stats"/>
 </p>
 
 <p align="center">
